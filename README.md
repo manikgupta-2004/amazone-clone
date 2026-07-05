@@ -1,61 +1,89 @@
-# 🛒 Amazon Clone
-
 <div align="center">
 
-### A Fully Responsive Amazon Homepage Clone
+# 🛒 Amazon Clone
 
-Built with **HTML5** & **CSS3** to replicate the look and feel of Amazon's modern e-commerce interface.
+### A Responsive Amazon Homepage Clone Built with HTML & CSS
 
-🌐 **Live Demo:** https://manikgupta-2004.github.io/amazon-clone/
+<p>
+An Amazon-inspired e-commerce homepage created to practice modern frontend development, responsive layouts, and clean UI design.
+</p>
 
-⭐ If you like this project, consider giving it a star!
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+
+</p>
+
+<p>
+
+<a href="https://manikgupta-2004.github.io/amazon-clone/">
+<img src="https://img.shields.io/badge/🚀 Live Demo-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/manikgupta-2004/amazon-clone">
+<img src="https://img.shields.io/badge/⭐ Star Repository-black?style=for-the-badge"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-## 📖 About The Project
+# 📸 Project Preview
 
-This project is a responsive clone of the Amazon homepage developed to strengthen my frontend development skills. It focuses on creating a clean user interface, responsive layouts, reusable components, and an engaging user experience using only HTML and CSS.
-
-The project demonstrates a strong understanding of modern web design principles, layout structuring, and responsive web development.
+> **Screenshot will be added here.**
 
 ---
 
-## ✨ Key Features
+# 📖 About The Project
 
-- ✅ Fully Responsive Layout
-- ✅ Modern Amazon-inspired UI
-- ✅ Navigation Bar
-- ✅ Hero Banner
-- ✅ Shopping Category Cards
-- ✅ Hover Effects
-- ✅ Footer Section
-- ✅ Clean & Organized Code
-- ✅ Beginner Friendly Structure
+This project is a responsive clone of the Amazon homepage built using **HTML5** and **CSS3**.
+
+The goal of this project was to strengthen my frontend development skills by recreating one of the world's most popular e-commerce websites while following clean coding practices and responsive design principles.
 
 ---
 
-## 🛠️ Tech Stack
+# ✨ Features
 
-| Technology | Usage |
-|------------|-------|
+- 🛍️ Amazon Inspired UI
+- 📱 Fully Responsive Design
+- 🎨 Modern Layout
+- 🖼️ Hero Banner
+- 🛒 Product Category Cards
+- 📦 Product Sections
+- 🧭 Navigation Bar
+- 🔍 Search Bar UI
+- 📄 Footer Section
+- ⚡ Optimized & Clean Code
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
 | HTML5 | Structure |
-| CSS3 | Styling & Layout |
-| Flexbox | Responsive Layout |
-| CSS Grid | Product Sections |
+| CSS3 | Styling |
+| Flexbox | Layout |
+| CSS Grid | Responsive Sections |
 
 ---
 
-## 📂 Project Structure
+# 📂 Folder Structure
 
 ```text
 amazon-clone/
 │
 ├── index.html
 ├── style.css
+│
 ├── amazon_logo.png
 ├── hero_image.jpg
+│
 ├── box1_image.jpg
 ├── box2_image.jpg
 ├── box3_image.jpg
@@ -68,82 +96,86 @@ amazon-clone/
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Live Demo
 
-### Clone Repository
+### 🌍 Website
+
+👉 **https://manikgupta-2004.github.io/amazon-clone/**
+
+---
+
+# ⚙️ Installation
+
+Clone Repository
 
 ```bash
 git clone https://github.com/manikgupta-2004/amazon-clone.git
 ```
 
-### Navigate to Project
+Open Project
 
 ```bash
 cd amazon-clone
 ```
 
-### Run
+Run
 
-Open the `index.html` file in your preferred web browser.
-
----
-
-## 📸 Preview
-
-> *(Project screenshot will be added here.)*
+```text
+Open index.html in your browser.
+```
 
 ---
 
-## 🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
-This project helped me improve my understanding of:
+During this project I learned:
 
 - Responsive Web Design
-- Flexbox & CSS Grid
+- CSS Flexbox
+- CSS Grid
 - Semantic HTML
-- Layout Design
-- UI Replication
-- CSS Positioning
-- Clean Code Practices
+- UI Cloning
+- Layout Structuring
+- Clean Folder Organization
+- Modern Web Design Principles
 
 ---
 
-## 📌 Future Improvements
+# 🚀 Future Improvements
 
-- JavaScript Functionality
-- Product Search
+- Add JavaScript Functionality
 - Shopping Cart
-- Authentication
+- Login System
+- Product Search
 - Dark Mode
 - Backend Integration
+- API Integration
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Developer
 
-### Manik Gupta
+## Manik Gupta
 
-🎓 B.Tech in Electronics & Communication Engineering (ECE)
+**Frontend Developer | C++ Programmer | DSA Enthusiast**
 
-💻 Frontend Developer | C++ Programmer | DSA Enthusiast
+🎓 B.Tech Electronics & Communication Engineering
 
-- GitHub: https://github.com/manikgupta-2004
-- LinkedIn: https://www.linkedin.com/in/manik-gupta-9772042b5
+📍 New Delhi, India
 
----
+### Connect with Me
 
-## ⭐ Support
-
-If you found this project helpful, please consider ⭐ starring the repository.
-
-It motivates me to build more high-quality open-source projects.
+- GitHub → https://github.com/manikgupta-2004
+- LinkedIn → https://www.linkedin.com/in/manik-gupta-9772042b5
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ❤️
+## ⭐ If you found this project helpful, consider giving it a Star!
 
-Happy Coding 🚀
+### Thank you for visiting my repository ❤️
+
+🚀 Happy Coding!
 
 </div>
