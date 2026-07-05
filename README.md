@@ -35,7 +35,9 @@ An Amazon-inspired e-commerce homepage created to practice modern frontend devel
 
 # 📸 Project Preview
 
-> **Screenshot will be added here.**
+<p align="center">
+  <img src="./preview.png" width="100%">
+</p>
 
 ---
 
